@@ -88,6 +88,7 @@ p{
 	position: absolute;
 	bottom: 0;
 	left: 108;
+	z-index: -1;
 }
 
 
